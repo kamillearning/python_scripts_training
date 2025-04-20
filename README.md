@@ -1,1 +1,1 @@
-A repository created to store python files where I practice scripting along with using the GIT version control system.
+A repository created to store python files where I practice scripting along with using the GIT version control system. Thank you!
